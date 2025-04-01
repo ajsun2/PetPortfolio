@@ -1,5 +1,7 @@
 Live website: https://ajsun2.gitlab.io/mp1/
 
+GitLab Repository link: https://gitlab.com/ajsun2/mp1
+
 Video demo: https://drive.google.com/drive/folders/11ua9Sx93zETyO8ebYQbTLwd093FPuoTc?usp=sharing
 
 # MP #1: One Web Page To Rule Them All
